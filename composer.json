@@ -5,8 +5,8 @@
     "keywords": ["october", "plugin", "cms", "meta", "link", "html"],
     "license": "MIT",
     "extra": {
-        "installer-name": "bennothommo/meta"
-    },
+         "installer-name": "bennothommo/meta"
+    },
     "authors": [
         {
             "name": "Ben Thomson",
